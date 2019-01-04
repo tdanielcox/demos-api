@@ -1,0 +1,19 @@
+{
+  "name": "brandboom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "multer": "^1.4.1",
+    "uuid": "^3.3.2"
+  }
+}
