@@ -1,4 +1,3 @@
-/data/uploads
-/data/tmp
+/data/uploads/*
 /node_modules
 .env
